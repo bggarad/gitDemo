@@ -1,0 +1,17 @@
+//Test/Processes/test/PasswordDecrypt.bwp.displayer.openstate=1
+//Test/Processes/test/PasswordDecrypt.bwp.favorite.expansionstate=1
+//Test/Processes/test/PasswordDecrypt.bwp.library.expansionstate=0
+//Test/Processes/test/PasswordDecrypt.bwp.recent.expansionstate=1
+//Test/Processes/test/Process.bwp.displayer.openstate=1
+//Test/Processes/test/Process.bwp.favorite.expansionstate=1
+//Test/Processes/test/Process.bwp.library.expansionstate=0
+//Test/Processes/test/Process.bwp.recent.expansionstate=1
+//Test/Processes/test/Process1.bwp.displayer.openstate=1
+//Test/Processes/test/Process1.bwp.favorite.expansionstate=1
+//Test/Processes/test/Process1.bwp.library.expansionstate=0
+//Test/Processes/test/Process1.bwp.recent.expansionstate=1
+com.tibco.bw.core.design.process.editor.numofvirtualpalettes=0
+eclipse.preferences.version=1
+global.favorite_palette_size=0
+global.recent_palette_capacity=8
+global.recent_palette_size=0
